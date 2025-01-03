@@ -2,7 +2,7 @@
 
 This dataset provides a comprehensive view of user activity, preferences, and engagement metrics related to an online meal-ordering platform. It covers key aspects like user demographics, session details, and order history, enabling an in-depth analysis of user behavior and business performance.
 
-Aviable hree datasets: UserDetails, CookingSessions, and OrderDetails.
+Available three datasets: UserDetails, CookingSessions, and OrderDetails.
 Userdetails dataset includes columns such as User ID,User Name,	Age	Location,	Registration Date,	Phone	Email,	Favorite Meal, Total Orders.
 CookingSessions dataset includes columns such as Session ID,	Dish Name,	Meal Type,	Session Start,	Session End,	Duration (mins),	Session Rating and 
 Orderdetails dataset includes columns such as Order ID,	Order Date,	Meal Type,	Dish Name,	Order Status,	Amount (USD),	Time of Day, Rating,	Session ID,
